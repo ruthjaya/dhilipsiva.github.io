@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>dhilipsiva</title>
+		<description>dhilipsiva</description>		
+		<link>http://dhilipsiva.com</link>
+		<atom:link href="http://dhilipsiva.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>First post on dhilipsiva.com</title>
+				<description>&lt;p&gt;Greetings, Earthling!&lt;/p&gt;
+
+&lt;p&gt;This is my first post on &lt;a href=&quot;http://dhilipsiva.com&quot;&gt;dhilipsiva.com&lt;/a&gt;. Have been thinking to switch from &lt;code&gt;Heroku + Flask&lt;/code&gt; to &lt;code&gt;GitHub + Jekyll&lt;/code&gt; for about a year now. But I never really got any time. This month, I quit my job at &lt;a href=&quot;http://launchyard.com&quot;&gt;LaunchYard&lt;/a&gt;, so that I can launch my very own startup, thank you very much! Finally, I made the switch today.&lt;/p&gt;
+
+&lt;p&gt;It is been really great working at LauchYard. I learnt so many things from &lt;a href=&quot;https://www.facebook.com/aat1f&quot;&gt;Atif&lt;/a&gt; (CEO, LaunchYard). If you are reading this Atif, thank you!&lt;/p&gt;
+
+&lt;p&gt;I have decided to dive into &lt;code&gt;Big Data&lt;/code&gt; and &lt;code&gt;Machine Learning&lt;/code&gt;. Its been a passion for me to do BD and ML for almost a year now. I am very excited to do something on my own.&lt;/p&gt;
+
+&lt;p&gt;Anyways, I wrote this post just to say &amp;quot;Hi&amp;quot;. So, I&amp;#39;ll sign-off for now. Will catch you soon.&lt;/p&gt;
+
+&lt;p&gt;dhilipsiva&lt;/p&gt;
+</description>
+				<pubDate>Thu, 24 Apr 2014 00:00:00 +0530</pubDate>
+				<link>http://dhilipsiva.com/2014/04/24/first-post-on-dhilipsiva-com.html</link>
+				<guid isPermaLink="true">http://dhilipsiva.com/2014/04/24/first-post-on-dhilipsiva-com.html</guid>
+			</item>
+		
+	</channel>
+</rss>
